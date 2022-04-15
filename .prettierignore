@@ -1,0 +1,11 @@
+node_modules
+.next
+next-env.d.ts
+next.config.js
+tsconfig.json
+.gitignore
+build
+.eslintignore
+.husky
+.vscode
+package.json
